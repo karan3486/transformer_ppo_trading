@@ -1,3 +1,3 @@
 # transformer_ppo_trading
 
-Main file: transformer_ppo.ipynb
+The transformer_ppo.ipynb is the mail file where transformer is trained and integrated with PPO model.
